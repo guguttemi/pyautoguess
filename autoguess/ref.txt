@@ -1,0 +1,19 @@
+
+Chrome 활성 탭 변경하기
+https://devyurim.github.io/python/crawler/2018/08/13/crawler-3.html
+
+bat 파일로 Java 실행
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bb_&logNo=221369258946
+
+Java로 웹 크롤링하기
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sky930425&logNo=221562017606
+
+낱말 유의어사전
+https://m.wordnet.co.kr/
+
+Xpath 사용법, 표현식
+https://0433.tistory.com/41
+
+Selenium 클릭 안될 때
+https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=kiddwannabe&logNo=221430636045
+https://stackoverflow.com/questions/13687790/how-to-click-a-tag-in-selenium

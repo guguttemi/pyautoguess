@@ -1,0 +1,27 @@
+
+1. Chrome Driver 설치
+	1-1. Chrome 버전 확인
+		chrome://version/
+	2-2. Chrome Driver 설치
+		https://chromedriver.chromium.org/downloads
+2. 의존성 설치
+	2-1. Selenium
+	https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.4.0
+	2-2. JSoup
+	https://mvnrepository.com/artifact/org.jsoup/jsoup/1.15.3
+	2-3. Lombok
+	https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.24
+	
+3. 셀레니움 동작 테스트
+
+TODO: NaverLogin.java에서 웹 드라이버 경로는 외부 파일로 읽어오도록 적용하기
+
+4. JSoup 동작 테스트
+
+5. 유의어 사전 서칭
+
+6. 프로그램 실행 흐름
+
+7. 패키지 구조
+
+8. 비즈니스 로직
